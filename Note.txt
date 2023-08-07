@@ -1,0 +1,12 @@
+Bước 1: Cài đặt tài khoản:
+Lệnh -> git config --global user.name "your name"
+        git config --global user.email "your email"
+    + Kiểm tra lại sau khi cài đặt
+        chỉ cần gõ git config --global user.(name/email)
+    >>>>> muốn đổi user mới chỉ cần nhập lại cài đặt tài khoản nhập user mới, code sẽ tự đè lại user cũ
+Ở vai trò người khỏi tạo dự án.
+ 1. Tạo remote repository.
+ 2. Tạo local repository.
+    --Khởi tạo repo: git init
+    --Kết nối remote repo với local repo: git remote add origin "url remote repo (Đường link dẫn trên github dự án fonder)
+    
