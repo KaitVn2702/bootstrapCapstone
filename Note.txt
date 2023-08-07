@@ -9,4 +9,8 @@ Lệnh -> git config --global user.name "your name"
  2. Tạo local repository.
     --Khởi tạo repo: git init
     --Kết nối remote repo với local repo: git remote add origin "url remote repo (Đường link dẫn trên github dự án fonder)
+ 3. Đẩy code lên remote repo:
+    --git add "tên file" hoặc git add . (chọn tất cả các file thay đổi)
+    --git commit -m "message" (đặt tên git đẩy lên - thường đặt bằng tiếng anh và đặt tên theo tính năng/ dự án của code)
+    --git push (-u origin - khi lần đầu push lên 1 nhánh) "tên nhánh" (cần đẩy)
     
