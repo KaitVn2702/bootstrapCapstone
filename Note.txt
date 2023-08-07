@@ -13,4 +13,4 @@ Lệnh -> git config --global user.name "your name"
     --git add "tên file" hoặc git add . (chọn tất cả các file thay đổi)
     --git commit -m "message" (đặt tên git đẩy lên - thường đặt bằng tiếng anh và đặt tên theo tính năng/ dự án của code)
     --git push (-u origin - khi lần đầu push lên 1 nhánh) "tên nhánh" (cần đẩy)
-    
+git 
